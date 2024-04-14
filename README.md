@@ -3,10 +3,10 @@ Empower individuals with our app, simplifying legal complexities. Accessible leg
 
 [Include a screenshot or logo of your app]
 
-Table of Contents
-About
-Features
-Demo
+## Table of Contents
+### 1. About
+### 2. Features
+### 3. Demo
 
 
 ## About
