@@ -11,7 +11,7 @@ Empower individuals with our app, simplifying legal complexities. Accessible leg
 ## About
 An innovative application that leverages advanced AI technology to provide users with comprehensive legal assistance and support. By integrating Google's Gemini language model and a customized AI-powered calling feature, our platform offers a unique blend of information retrieval, community engagement, and real-time assistance.
 
-At the heart of Righta is a Language Model (LM) developed by Google, specifically Gemini, trained on the latest Indian Penal Code (IPC) sourced from a provided PDF document. This LM performs Real-time Answer Generation (RAG) to analyze user queries and extract relevant information from the IPC, ensuring accurate and up-to-date legal guidance.
+At the heart of Righta is a Language Model (LM) developed by Google, specifically Gemini, trained on the latest Indian Penal Code (IPC) sourced from a provided PDF document. This LM performs Retrieval augmented generation (RAG) to analyze user queries and extract relevant information from the IPC, ensuring accurate and up-to-date legal guidance.
 
 ## Features
 1. Google Search Integration: Users can input their legal queries into the app, which then utilizes Google Search to gather additional information and context. By combining results from both Google Search and the Indian Penal Code (IPC), users receive a comprehensive understanding of their legal concerns.
