@@ -1,6 +1,11 @@
 # Righta: Empowering Access to Legal Knowledg
 Empower individuals with our app, simplifying legal complexities. Accessible legal knowledge, AI-powered support, and community engagement.
+
 ![image](https://github.com/mavihsrr/Righta_Legal/assets/91791239/9ee3990b-e643-4d48-b94a-83bcec9e8d1b)
+![1](https://github.com/mavihsrr/Righta_Legal/assets/91791239/38125d73-9e89-4a67-bcde-293ca60502ef)
+
+
+
 
 ## Table of Contents
 ### 1. About
