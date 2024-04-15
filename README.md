@@ -11,7 +11,6 @@ Empower individuals with our app, simplifying legal complexities. Accessible leg
 ## Table of Contents
 ### 1. About
 ### 2. Features
-### 3. Demo
 
 
 ## About
@@ -28,6 +27,5 @@ At the heart of Righta is a Language Model (LM) developed by Google, specificall
 
 4. Multilingual Support: Recognizing the diverse linguistic landscape of India, our platform offers multilingual support, ensuring that legal information is accessible to users in their preferred language.
 
-## Demo
-[Include a GIF or video demonstrating your app in action]
+
 
